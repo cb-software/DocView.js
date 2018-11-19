@@ -1,5 +1,5 @@
 # DocView.js
-A javascript library for rendering documents.
+A JavaScript library for rendering documents.
 
 ### Supported File Types (Coming Soon)
 - Word
